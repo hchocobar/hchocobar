@@ -1,16 +1,16 @@
-# Héctor Chocobar Torrejón
+# Héctor Chocobar-Torrejón
 
-> Ingeniero en Sistemas (UTN, 1994)
+> **Ingeniero en Sistemas (UTN, 1994)**
 > - Profesor de desarrollo de software
-> - Back-end Developer
+> - Back-end developer
+
+> **BE, Computer Science (UTN, 1994)**
+> - Software development lecturer
+> - Back-end developer 
 
 # Repositorios
 
-## Descripción
-
-Estos repositorios están destinados a hispanos parlantes que se inician en la industria del Desarrollo de Software.
-
-## Contenidos
+Estos repositorios están destinados a hispanos parlantes que se inician en la industria del desarrollo de software.
 
 En ellos encontrarás:
 
