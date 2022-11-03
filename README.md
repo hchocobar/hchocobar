@@ -1,3 +1,31 @@
+# Hector 
+
+## About Me
+
+Mi nombre es hector hat are supersets of Markdown. They include basic syntax and build upon it by adding additional elements like tables, code blocks, syntax highlighting, URL auto-linking, and footnotes. Many of the most popular Markdown applications use one of the following.
+
+Mi skills son:
+
+- HTML
+- CSS
+- Bootstrap
+
+Lengujes 
+
+1. Python
+2. Javascript
+
+I hat are supersets of Markdown. They include basic syntax and build upon it by adding additional elements like tables, code blocks, syntax highlighting, URL auto-linking, and footnotes. Many of the most popular Markdown applications use one of the following l
+
+## Enlaces
+
+[Python](https://python.org)
+
+> Don't worry, be happy!!
+
+
+
+
 # Héctor Chocobar-Torrejón
 
 > **Ingeniero en Sistemas (UTN, 1994)**
