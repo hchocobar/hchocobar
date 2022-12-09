@@ -1,3 +1,4 @@
+![I stand with Ukraine](https://chocobar.net/hcht-uk)
 # Hector Chocobar-Torrejon
 
 > **BE, Computer Science (UTN, 1994)**
