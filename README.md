@@ -1,4 +1,8 @@
-![I stand with Ukraine](https://chocobar.net/hcht-uk)
+<figure>
+    <img src="https://chocobar.net/hcht-uk"
+         alt="I stand with Ukraine">
+    <figcaption>I stand with Ukraine!</figcaption>
+</figure>
 # Hector Chocobar-Torrejon
 
 > **BE, Computer Science (UTN, 1994)**
