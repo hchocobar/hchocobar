@@ -40,7 +40,7 @@ En ellos encontrarás:
 - Código de apoyo de **cursos** que he dictado.
 - Código de **pequeños proyectos** que utilizo como ejemplos para explicar la aplicación de alguna tecnología.
 
-## Muchas Gracias
+## Muchas Gracias!
 
 [Héctor Chocobar Torrejón](http://chocobar.net)
 
