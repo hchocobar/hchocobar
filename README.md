@@ -1,9 +1,9 @@
-<img src="https://chocobar.net/hcht-uk"
-     width="50" height="50"
-     alt="I stand with Ukraine">
 <img src="https://en.gravatar.com/userimage/146115819/41a333edd75fea5257a0a684c76cf977.png"
      height="50"
      alt="Avatar de Héctor">
+<img src="https://chocobar.net/hcht-uk"
+     width="50" height="50"
+     alt="I stand with Ukraine">
 <img src="https://chocobar.net/utn"
      height="50"
      alt="Universidad Tecnológica Nacional">
@@ -25,7 +25,7 @@
 
 # Hector Chocobar-Torrejon 
 
-[Website](http://chocobar.net) | [LinkedIn](https://www.linkedin.com/in/hector-chocobar/)
+[Website](https://chocobar.net) | [LinkedIn](https://www.linkedin.com/in/hector-chocobar/)
 
 > **BE, CS (UTN, 1994)** /  **Ingeniero en Sistemas de Información (UTN, 1994)**
 
