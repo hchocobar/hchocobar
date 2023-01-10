@@ -27,15 +27,15 @@
 
 [Website](https://chocobar.net) | [LinkedIn](https://www.linkedin.com/in/hector-chocobar/)
 
-> **BE, CS (UTN, 1994)** /  **Ingeniero en Sistemas de Información (UTN, 1994)**
+> **BE, CS (UTN, 1994)** |  **Ingeniero en Sistemas de Información**
 
-- Specializations in Web Development, Programming, and Data Science (University of Michigan, 2022)
-- Software development professor / Profesor de desarrollo de software
+- Specializations in Web Development, Programming, and Data Science (University of Michigan, 2022).
+- Software development professor / Profesor de desarrollo de software.
 
 ## Sugerencias y Recomendaciones
 
-- Como desarrollador te recomiendo que utilices alguna distribución Linux como Sistema Operativo (SO). Por ejemplo: [Ubuntu Desktop](https://ubuntu.com/download/desktop).  
-- Como desarrollador Python te sugiero utilizar [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/#section=linux) como Entorno de Desarrollo Integrado (IDE).
+- Como Sistema Operativo (SO) te sugiero que utilices alguna distribución Linux. Por ejemplo: [Ubuntu Desktop](https://ubuntu.com/download/desktop).  
+- Como Entorno de Desarrollo Integrado (IDE) para desarrolladores Python te recomiendo [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/#section=linux).
 
 ## Repositorios
 
