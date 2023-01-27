@@ -27,7 +27,7 @@
 
 [Website](https://chocobar.net) | [LinkedIn](https://www.linkedin.com/in/hector-chocobar/)
 
-> **BE, CS (UTN, 1994)** |  **Ingeniero en Sistemas de Información (UTN, 1994)**
+> **BE, CS (UTN, 1994)** |  **Ingeniero en Sistemas (UTN, 1994)**
 
 - Specializations made at University of Michigan (2021-2022) in Web Development, Programming, and Data Science.
 - Professor of software development | Profesor de desarrollo de software.
