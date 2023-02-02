@@ -22,6 +22,12 @@
 <img src="https://chocobar.net/logo-pycharm"
      height="50"
      alt="Logo PyCharm">
+<img src="https://chocobar.net/logo-utec-uruguay"
+     height="50"
+     alt="Logo UTEC Universidad Tecnológica de Uruguay">
+<img src="https://chocobar.net/logo-4geeks"
+     height="50"
+     alt="Logo 4Geeks Academy">
 
 # Hector Chocobar-Torrejon 
 
@@ -29,8 +35,9 @@
 
 > **BE, CS (UTN, 1994)** |  **Ingeniero en Sistemas (UTN, 1994)**
 
-- Specializations made at University of Michigan (2021-2022) in Web Development, Programming, and Data Science.
-- Professor of software development | Profesor de desarrollo de software.
+- Specializations made at University of Michigan in Web Development, Programming, and Data Science.
+
+> **Professor of software development | Profesor de desarrollo de software (UTEC - 4Geeks Academy)**
 
 ## Sugerencias y Recomendaciones
 
@@ -39,9 +46,4 @@
 
 ## Repositorios
 
-Estos repositorios están destinados a quienes se inician en la industria del desarrollo de software. 
-
-En ellos encontrarás:
-
-- Código de apoyo de **cursos** que he dictado.
-- Código de **pequeños proyectos** que utilizo como ejemplos para explicar la aplicación de alguna tecnología.
+Estos repositorios están destinados a quienes se inician en la industria del desarrollo de software. En ellos encontrarás código de apoyo de **cursos** que he dictado y de **pequeños proyectos** que utilizo como ejemplos para explicar la implementación de alguna tecnología.
