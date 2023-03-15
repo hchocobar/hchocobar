@@ -22,9 +22,6 @@
 <img src="https://chocobar.net/logo-pycharm"
      height="50"
      alt="Logo PyCharm">
-<img src="https://chocobar.net/logo-utec-uruguay"
-     height="50"
-     alt="Logo UTEC Universidad Tecnológica de Uruguay">
 <img src="https://chocobar.net/logo-4geeks"
      height="50"
      alt="Logo 4Geeks Academy">
