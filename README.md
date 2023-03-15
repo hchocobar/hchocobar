@@ -34,7 +34,7 @@
 
 - Specializations made at University of Michigan in Web Development, Programming, and Data Science.
 
-> **Professor of software development | Profesor de desarrollo de software (UTEC - 4Geeks Academy)**
+> **Professor of software development | Profesor de desarrollo de software**
 
 ## Sugerencias y Recomendaciones
 
