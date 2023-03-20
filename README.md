@@ -25,6 +25,9 @@
 <img src="https://chocobar.net/logo-4geeks"
      height="50"
      alt="Logo 4Geeks Academy">
+<img src="https://chocobar.net/ucu/"
+     height="50"
+     alt="Logo Catholic University of Uruguay">
 
 # Hector Chocobar-Torrejon 
 
@@ -34,7 +37,10 @@
 
 - Specializations made at University of Michigan in Web Development, Programming, and Data Science.
 
-> **Professor of software development | Profesor de desarrollo de software**
+> **Professor & Senior Mentor**
+
+- 4Geeks Academy Spain, Senior Mentor of Fullstack Coding Bootcamp
+- UCU, Catholic University of Uruguay, Professor of Programming for Data Analisys 
 
 ## Sugerencias y Recomendaciones
 
