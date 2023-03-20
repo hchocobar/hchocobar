@@ -39,8 +39,8 @@
 
 > **Professor & Senior Mentor**
 
-- 4Geeks Academy Spain, Senior Mentor of Fullstack Coding Bootcamp
-- UCU, Catholic University of Uruguay, Professor of Programming for Data Analisys 
+- 4Geeks Academy Spain, Full Stack Coding Bootcamp Senior Mentor
+- UCU, Catholic University of Uruguay, Professor of Programming for Data Analysis 
 
 ## Sugerencias y Recomendaciones
 
