@@ -1,4 +1,4 @@
-<img src="./gravatar-hector.png"
+<img src="./img/gravatar-hector.png"
      height="50"
      alt="Avatar de Héctor">
 <img src="./img/logo-hcht-uk.jpg"
