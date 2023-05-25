@@ -22,20 +22,21 @@
 <img src="./img/logo-pycharm.png"
      height="50"
      alt="Logo PyCharm">
-<img src="./img/logo-4geeks.png"
-     height="50"
-     alt="Logo 4Geeks Academy">
 <img src="./img/logo-ucu.png"
      height="50"
      alt="Logo Catholic University of Uruguay">
+<img src="./img/logo-4geeks.png"
+     height="50"
+     alt="Logo 4Geeks Academy">
 
 # Hector Chocobar-Torrejon 
 
-[My Website](https://chocobar.net) | [LinkedIn](https://www.linkedin.com/in/hector-chocobar/)
+[LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [Website](https://chocobar.net)
 
 > **BE, CS** |  🎓 **Ingeniero en Sistemas (UTN, 1994)**
 
 - Specializations made at University of Michigan in Web Development (2022), Programming (2022), and Data Science.
+- AWS Fundamentls Specialization.
 
 > **Professor & Senior Mentor**
 
