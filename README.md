@@ -36,7 +36,7 @@
 > **BE, CS** |  🎓 **Ingeniero en Sistemas (UTN, 1994)**
 
 - Specializations made at University of Michigan in Web Development (2022), Programming (2022), and Data Science.
-- AWS Fundamentls Specialization.
+- AWS Fundamentals Specialization.
 
 > **Professor & Senior Mentor**
 
