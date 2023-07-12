@@ -33,7 +33,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [Website](https://chocobar.net)
 
-> **BE, CS** |  🎓 **Ingeniero en Sistemas (UTN, 1994)**
+> **BE, CS** |  🎓 **Ingeniero en Sistemas ([UTN](https://www.frc.utn.edu.ar/), 1994)**
 
 - Specializations made at University of Michigan in Web Development (2022), Programming (2022), and Data Science.
 - AWS Fundamentals Specialization.
