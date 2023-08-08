@@ -29,25 +29,26 @@
      height="50"
      alt="Logo 4Geeks Academy">
 
-# Hector Chocobar-Torrejon 
+# Héctor Chocobar-Torrejón
 
 [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [Website](https://chocobar.net)
 
-> **BE, CS** |  🎓 **Ingeniero en Sistemas ([UTN](https://www.frc.utn.edu.ar/), 1994)**
+## Education
 
-- Specializations made at University of Michigan in Web Development (2022), Programming (2022), and Data Science.
-- AWS Fundamentals Specialization.
+> 🎓 **BE, CS** | **Ingeniero en Sistemas de Información**, 🇦🇷 [UTN](https://www.frc.utn.edu.ar/), 1994
 
-> **Professor & Senior Mentor**
+- AWS Fundamentals Specialization (2022)
+- Specializations in Web Development, University of Michigan, 2022
+- Specializations in Programming, University of Michigan, 2022
+- Specializations in Data Science, University of Michigan, 2022
 
-- 🇺🇾 Professor of Programming for Data Analysis , [UCU - Catholic University of Uruguay](https://ucu.edu.uy) 
-- 🇪🇸 Senior Mentor of the "Full Stack Coding Bootcamps", [4Geeks Academy](https://4geeksacademy.com/), Spain
+## Activities
 
-## Sugerencias y Recomendaciones
+> 🇺🇾 **Professor** of Programming for Data Analysis , [UCU - Catholic University of Uruguay](https://ucu.edu.uy)
 
-- Como Sistema Operativo (SO) te sugiero que utilices alguna distribución Linux. Por ejemplo: [Ubuntu Desktop](https://ubuntu.com/download/desktop).  
-- Como Entorno de Desarrollo Integrado (IDE) para desarrolladores Python te recomiendo [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/#section=linux).
+> 🇪🇸 **Senior Mentor** of the "Full Stack Coding Bootcamps", [4Geeks Academy](https://4geeksacademy.com/), Spain
 
-## Repositorios
+## Advices
 
-Estos repositorios están destinados a quienes se inician en la industria del desarrollo de software. En ellos encontrarás código de apoyo de **cursos** que he dictado y de **pequeños proyectos** que utilizo como ejemplos para explicar la implementación de alguna tecnología.
+- [Ubuntu Desktop](https://ubuntu.com/download/desktop) as Operating System
+- [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/) as IDE for Python developers
