@@ -31,7 +31,7 @@
 
 # Héctor Chocobar-Torrejón
 
-[LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [Website](https://chocobar.net)
+| [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [Personal Website](https://chocobar.net) |
 
 ## Education
 
