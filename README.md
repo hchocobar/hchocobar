@@ -35,18 +35,18 @@
 
 ## Education
 
-> 🎓 **BE, CS** | **Ingeniero en Sistemas de Información**, 🇦🇷 [UTN](https://www.frc.utn.edu.ar/), 1994
+> **BE, CS** | **Ingeniero en Sistemas de Información**, 🇦🇷 [UTN](https://www.frc.utn.edu.ar/), 1994
 
-- AWS Fundamentals Specialization (2022)
 - Specializations in Web Development, University of Michigan, 2022
-- Specializations in Programming, University of Michigan, 2022
+- Specializations in Programming with Python, University of Michigan, 2022
 - Specializations in Data Science, University of Michigan, 2022
+- AWS Fundamentals Specialization (2022)
 
 ## Activities
 
-> 🇺🇾 **Professor** of Programming for Data Analysis , [UCU - Catholic University of Uruguay](https://ucu.edu.uy), Salto, Uruguay
+> **Professor** of Programming for Data Analysis , 🇺🇾  [UCU - Catholic University of Uruguay](https://ucu.edu.uy), Salto, Uruguay
 
-> 🇪🇸 **Senior Mentor** of the "Full Stack Coding Bootcamps", [4Geeks Academy](https://4geeksacademy.com/), Spain
+> **Senior Mentor** of the "Full Stack Coding Bootcamps", 🇪🇸 [4Geeks Academy](https://4geeksacademy.com/), Spain
 
 ## Advices
 
