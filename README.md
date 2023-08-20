@@ -46,7 +46,7 @@
 
 > **Professor** of Programming for Data Analysis , 🇺🇾  [UCU - Catholic University of Uruguay](https://ucu.edu.uy), Salto, Uruguay
 
-> **Senior Mentor** of the "Full Stack Coding Bootcamps", 🇪🇸 [4Geeks Academy](https://4geeksacademy.com/), Spain
+> **Senior Mentor** of the "Full Stack Coding Bootcamps", 🇪🇸 [4Geeks Academy](https://4geeksacademy.com/), Remote, Spain
 
 ## Advices
 
