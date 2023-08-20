@@ -35,7 +35,7 @@
 
 ## Education
 
-> **BE, CS** | **Ingeniero en Sistemas de Información**, 🇦🇷 [UTN](https://www.frc.utn.edu.ar/), 1994
+> **BE, CS** | **Ingeniero en Sistemas de Información**, 🇦🇷 [UTN](https://www.frc.utn.edu.ar/), Córdoba, Argentina, 1994
 
 - Specializations in Web Development, University of Michigan, 2022
 - Specializations in Programming with Python, University of Michigan, 2022
