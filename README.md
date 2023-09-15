@@ -16,6 +16,9 @@
 <img src="./img/logo-reactjs.png"
      height="50"
      alt="Logo React">
+<img src="./img/logo-jupyter.svg"
+     height="50"
+     alt="Logo Jupyter">
 <img src="./img/logo-ubuntu.png"
      height="50"
      alt="Logo Ubuntu">
