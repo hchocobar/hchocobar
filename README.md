@@ -50,11 +50,11 @@
 
 ## Activities
 
-> **Professor** of Programming for Data Analysis , 🇺🇾  [UCU - Catholic University of Uruguay](https://ucu.edu.uy), Salto, Uruguay
+> **Professor** of Programming for Data Analysis , 🇺🇾  [UCU - Catholic University of Uruguay](https://ucu.edu.uy), Hybrid, Salto, Uruguay
 
 > **Senior Mentor** of the "Full Stack Coding Bootcamps", 🇪🇸 [4Geeks Academy](https://4geeksacademy.com/), Remote, Spain
 
 ## Advices
 
 - [Ubuntu Desktop](https://ubuntu.com/download/desktop) as Operating System
-- [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/) as IDE for Python developers
+- [PyCharm Professional](https://www.jetbrains.com/pycharm/download/) as the Python IDE for Professional Developers
