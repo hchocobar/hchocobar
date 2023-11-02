@@ -10,21 +10,21 @@
 <img src="./img/university-of-michigan.jpeg"
      height="50"
      alt="University of Michigan">
-<img src="./img/logo-python.png"
-     height="50"
-     alt="Logo Python">
-<img src="./img/logo-reactjs.png"
-     height="50"
-     alt="Logo React">
 <img src="./img/logo-ubuntu.png"
      height="50"
      alt="Logo Ubuntu">
-<img src="./img/logo-pycharm.jpeg"
+<img src="./img/logo-reactjs.png"
      height="50"
-     alt="Logo PyCharm">
+     alt="Logo React">
+<img src="./img/logo-python.png"
+     height="50"
+     alt="Logo Python">
 <img src="./img/logo-jupyter.svg"
      height="50"
      alt="Logo Jupyter">
+<img src="./img/logo-pycharm.jpeg"
+     height="50"
+     alt="Logo PyCharm">
 <img src="./img/logo-pycharm-edu.jpeg"
      height="50"
      alt="Logo PyCharm">
@@ -35,24 +35,32 @@
      height="50"
      alt="Logo 4Geeks Academy">
 
-# Héctor Chocobar-Torrejón
+# Hector Chocobar-Torrejon
 
-| [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [Personal Website](https://chocobar.net) |
+| [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [Website](https://chocobar.net) |
 
 ## Education
 
-> **BE, CS** | **Ingeniero en Sistemas de Información**, 🇦🇷 [UTN](https://www.frc.utn.edu.ar/), Córdoba, Argentina, 1994
+> **B.E. in Computer Science** | **Ingeniero en Sistemas de Información**, 1994, [UTN](https://www.frc.utn.edu.ar/), Córdoba, 🇦🇷 Argentina
 
-- Specializations in Web Development, University of Michigan, 2022
-- Specializations in Programming with Python, University of Michigan, 2022
-- Specializations in Data Science, University of Michigan, 2022
-- AWS Fundamentals Specialization (2022)
+- Specializations in Web Development, 2022, University of Michigan
+- Specializations in Programming with Python, 2022, University of Michigan
+- Specializations in Data Science, 2022, University of Michigan
+- AWS Fundamentals Specialization, 2022, AWS
 
 ## Activities
 
-> **Professor** of Programming for Data Analysis , 🇺🇾  [UCU - Catholic University of Uruguay](https://ucu.edu.uy), Hybrid, Salto, Uruguay
+> **Professor** at [UCU - Catholic University of Uruguay](https://ucu.edu.uy), Hybrid, 🇺🇾 Uruguay
 
-> **Senior Mentor** of the "Full Stack Coding Bootcamps", 🇪🇸 [4Geeks Academy](https://4geeksacademy.com/), Remote, Spain
+- 2023, Programming for Data Analysis
+
+> **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/), Remote, 🇪🇸 Spain
+
+- 2022, Full Stack Coding Bootcamps Madrid-30
+- 2022, Full Stack Coding Bootcamps Madrid-34
+- 2023, Full Stack Coding Bootcamps Spain-44
+- 2023, Full Stack Coding Bootcamps Spain-46
+- 2023, Full Stack Coding Bootcamps Spain-50
 
 ## Advices
 
