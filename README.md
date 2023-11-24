@@ -56,11 +56,12 @@
 
 > **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/), Remote, 🇪🇸 Spain
 
-- 2022, Full Stack Coding Bootcamps Madrid-30
-- 2022, Full Stack Coding Bootcamps Madrid-34
-- 2023, Full Stack Coding Bootcamps Spain-44
-- 2023, Full Stack Coding Bootcamps Spain-46
-- 2023, Full Stack Coding Bootcamps Spain-50
+- 2023, Full Stack Coding Bootcamp, Cohorte Spain-54
+- 2023, Full Stack Coding Bootcamp, Cohorte Spain-50
+- 2023, Full Stack Coding Bootcamp, Cohorte Spain-46
+- 2023, Full Stack Coding Bootcamp, Cohorte Spain-44
+- 2022, Full Stack Coding Bootcamp, Cohorte Madrid-34
+- 2022, Full Stack Coding Bootcamp, Cohorte Madrid-30
 
 ## Advices
 
