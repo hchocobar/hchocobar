@@ -35,7 +35,11 @@
      height="50"
      alt="Logo 4Geeks Academy">
 
-# Hector Chocobar-Torrejon
+# Hi, my name is Héctor
+
+## 🚀 About Me
+
+Greatiings! I'm Héctor Chocobar Torrejón, Full Stack Developer and Data Science enthusiast 
 
 | [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [Website](https://chocobar.net) |
 
@@ -50,7 +54,7 @@
 
 ## Activities
 
-> **Professor** at [UCU - Catholic University of Uruguay](https://ucu.edu.uy), Hybrid, 🇺🇾 Uruguay
+> **Professor** at [UCU - Catholic University of Uruguay](https://ucu.edu.uy), Hybrid, Salto, 🇺🇾 Uruguay
 
 - 2023, Programming for Data Analysis
 
