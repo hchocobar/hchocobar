@@ -1,12 +1,12 @@
 # Hi, my name is Héctor
 
 
-<img src="./img/gravatar-hector.png"
-     height="50"
-     alt="Avatar de Héctor">
 <img src="./img/logo-hcht-uk.jpg"
      width="50" height="50"
      alt="I stand with Ukraine">
+<img src="./img/gravatar-hector.png"
+     height="50"
+     alt="Avatar de Héctor">
 <img src="./img/logo-utn.png"
      height="50"
      alt="Universidad Tecnológica Nacional">
@@ -40,7 +40,9 @@
 
 ## 🚀 About Me
 
-Greatiings! I'm Héctor Chocobar Torrejón, Full Stack Developer and Data Science enthusiast 
+Greatiings!
+
+I'm Hector Chocobar-Torrejon, Full Stack Developer and Data Science enthusiast.
 
 | [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [Website](https://chocobar.net) |
 
@@ -48,10 +50,12 @@ Greatiings! I'm Héctor Chocobar Torrejón, Full Stack Developer and Data Scienc
 
 > **B.E. in Computer Science** | **Ingeniero en Sistemas de Información**, 1994, [UTN](https://www.frc.utn.edu.ar/), Córdoba, 🇦🇷 Argentina
 
-- Specializations in Web Development, 2022, University of Michigan
-- Specializations in Programming with Python, 2022, University of Michigan
-- Specializations in Data Science, 2022, University of Michigan
-- AWS Fundamentals Specialization, 2022, AWS
+> **Specializations**
+> 
+- Web Development, 2022, University of Michigan
+- Programming with Python, 2022, University of Michigan
+- Data Science, 2022, University of Michigan
+- AWS Fundamentals, 2022, AWS
 
 ## 💼 Activities
 
@@ -62,6 +66,7 @@ Greatiings! I'm Héctor Chocobar Torrejón, Full Stack Developer and Data Scienc
 
 > **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/), Remote, 🇪🇸 Spain
 
+- 2024, Full Stack Coding Bootcamp, Cohorts Spain-65
 - 2023, Full Stack Coding Bootcamp, Cohorts Spain-44, Spain-46, Spain-50, and Spain-54
 - 2022, Full Stack Coding Bootcamp, Cohorts Madrid-30, and Madrid-34
 
