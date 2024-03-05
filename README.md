@@ -42,7 +42,7 @@
 
 Greatiings!
 
-I'm Hector Chocobar-Torrejon, Full Stack Developer and Data Science enthusiast.
+I'm a bachelor of engineering in computer science with over 30 years of experience. I'm a Full Stack Developer and Data Science enthusiast.
 
 | [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [Website](https://chocobar.net) |
 
