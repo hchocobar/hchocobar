@@ -1,6 +1,5 @@
 # Hi, my name is Héctor
 
-
 <img src="./img/logo-hcht-uk.jpg"
      width="50" height="50"
      alt="I stand with Ukraine">
@@ -43,6 +42,8 @@
 Greatiings!
 
 I'm a bachelor of engineering in computer science with over 30 years of experience. I'm a Full Stack Developer and Data Science enthusiast.
+
+## Contact me
 
 | [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [Website](https://chocobar.net) |
 
