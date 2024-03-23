@@ -37,13 +37,11 @@
      height="50"
      alt="Logo 4Geeks Academy">
 
+## 🙋🏽‍♂️ Greatiings!
+
+I'm a bachelor of engineering in computer science with over 30 years of experience. I'm a Full Stack Developer and Data Science enthusiast. I'm a Proffesor and Senior Mentor
+
 ## 🚀 About Me
-
-Greatiings!
-
-I'm a bachelor of engineering in computer science with over 30 years of experience. I'm a Full Stack Developer and Data Science enthusiast.
-
-## Contact me
 
 | [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [Website](https://chocobar.net) |
 
@@ -53,10 +51,10 @@ I'm a bachelor of engineering in computer science with over 30 years of experien
 
 > **Specializations**
 > 
-- Web Development, 2022, University of Michigan
-- Programming with Python, 2022, University of Michigan
-- Data Science, 2022, University of Michigan
-- AWS Fundamentals, 2022, AWS
+- 2022, Web Development, University of Michigan
+- 2022, Programming with Python, University of Michigan
+- 2022, Data Science, University of Michigan
+- 2022, AWS Fundamentals, AWS
 
 ## 💼 Activities
 
