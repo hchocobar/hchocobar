@@ -37,11 +37,13 @@
      height="50"
      alt="Logo 4Geeks Academy">
 
-## 🙋🏽‍♂️ Greatiings!
-
-I'm a bachelor of engineering in computer science with over 30 years of experience. I'm a Full Stack Developer and Data Science enthusiast. I'm a Proffesor and Senior Mentor
-
 ## 🚀 About Me
+
+Greeting!
+
+I'm a bachelor of engineering in computer science with over 30 years of experience. I'm a Full Stack Developer and Data Science enthusiast. I'm a Professor and Senior Mentor as well.
+
+## ℹ️ More About Me
 
 | [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [Website](https://chocobar.net) |
 
