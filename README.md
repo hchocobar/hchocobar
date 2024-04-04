@@ -41,7 +41,7 @@
 
 Greeting!
 
-I'm a bachelor of engineering in computer science with over 30 years of experience. I'm a Full Stack Developer and Data Science enthusiast. I'm a Professor and Senior Mentor as well.
+I'm a B.E. in Computer Science with over 30 years of experience. I'm a Full Stack Developer and Data Science enthusiast. I'm a Professor and Senior Mentor as well.
 
 ## ℹ️ More About Me
 
@@ -49,7 +49,9 @@ I'm a bachelor of engineering in computer science with over 30 years of experien
 
 ## 🎓 Education
 
-> **B.E. in Computer Science** | **Ingeniero en Sistemas de Información**, 1994, [UTN](https://www.frc.utn.edu.ar/), Córdoba, 🇦🇷 Argentina
+> **B.E. in Computer Science** from [UTN - National Technological University](https://www.utn.edu.ar/es/), Córdoba, 🇦🇷 Argentina
+>
+- "Ingeniero en Sistemas de Información". Started February 1988, graduated March 1994
 
 > **Specializations**
 > 
@@ -62,8 +64,8 @@ I'm a bachelor of engineering in computer science with over 30 years of experien
 
 > **Professor** at [UCU - Catholic University of Uruguay](https://ucu.edu.uy), Hybrid, Salto, 🇺🇾 Uruguay
 
-- 2024, Programming for Data Analysis
-- 2023, Programming for Data Analysis
+- 2024, Programming for Data Analysis (Python)
+- 2023, Programming for Data Analysis (Python)
 
 > **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/), Remote, 🇪🇸 Spain
 
