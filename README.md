@@ -62,16 +62,16 @@ I'm a B.E. in Computer Science with over 30 years of experience. I'm a Full Stac
 
 ## 💼 Activities
 
-> **Professor** at [UCU - Catholic University of Uruguay](https://ucu.edu.uy), Hybrid, Salto, 🇺🇾 Uruguay
+> **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/), Remote, 🇪🇸 Spain
+
+- 2024, Full Stack Coding Bootcamp, Cohorts Spain-65, and Spain-72
+- 2023, Full Stack Coding Bootcamp, Cohorts Spain-44, Spain-46, Spain-50, and Spain-54
+- 2022, Full Stack Coding Bootcamp, Cohorts Madrid-30, and Madrid-34
+
+> **Professor** at [UCU - Catholic University of Uruguay](https://ucu.edu.uy), Hybrid, 🇺🇾 Uruguay
 
 - 2024, Programming for Data Analysis (Python)
 - 2023, Programming for Data Analysis (Python)
-
-> **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/), Remote, 🇪🇸 Spain
-
-- 2024, Full Stack Coding Bootcamp, Cohorts Spain-65
-- 2023, Full Stack Coding Bootcamp, Cohorts Spain-44, Spain-46, Spain-50, and Spain-54
-- 2022, Full Stack Coding Bootcamp, Cohorts Madrid-30, and Madrid-34
 
 ## 💡 Advices
 
