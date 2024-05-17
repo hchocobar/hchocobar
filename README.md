@@ -53,12 +53,12 @@ I'm a B.E. in Computer Science with over 30 years of experience. I'm a Full Stac
 >
 - "Ingeniero en Sistemas de Información". Started February 1988, graduated March 1994
 
-> **Specializations**
+> **Lastest Specializations**
 > 
+- 2022, AWS Fundamentals, AWS
 - 2022, Web Development, University of Michigan
 - 2022, Programming with Python, University of Michigan
 - 2022, Data Science, University of Michigan
-- 2022, AWS Fundamentals, AWS
 
 ## 💼 Activities
 
@@ -77,3 +77,5 @@ I'm a B.E. in Computer Science with over 30 years of experience. I'm a Full Stac
 
 - [Ubuntu Desktop](https://ubuntu.com/download/desktop) as Operating System
 - [PyCharm Professional](https://www.jetbrains.com/pycharm/download/) as the Python IDE for Professional Developers
+- [JetBrians](https://www.jetbrains.com/) as essential tools for software developers and teams
+- [AWS](https://aws.amazon.com/) as cloud computing
