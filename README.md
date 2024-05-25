@@ -1,5 +1,3 @@
-# Hi, my name is Héctor
-
 <img src="./img/logo-hcht-uk.jpg"
      width="50" height="50"
      alt="I stand with Ukraine">
@@ -37,36 +35,33 @@
      height="50"
      alt="Logo 4Geeks Academy">
 
+
 ## 🚀 About Me
+
+Hi, my name is Héctor
 
 Greeting!
 
-I'm a B.E. in Computer Science with over 30 years of experience. I'm a Full Stack Developer and Data Science enthusiast. I'm a Professor and Senior Mentor as well.
-
-## ℹ️ More About Me
-
-| [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [Website](https://chocobar.net) |
+I am a B.E. in Computer Science with over 30 years of experience. I'm a Full Stack Developer and Data Science enthusiast. I'm a Professor and Senior Mentor as well.
 
 ## 🎓 Education
 
 > **B.E. in Computer Science** from [UTN - National Technological University](https://www.utn.edu.ar/es/), Córdoba, 🇦🇷 Argentina
 >
-- "Ingeniero en Sistemas de Información". Started February 1988, graduated March 1994
+- Univesity Degree: "Ingeniero en Sistemas de Información". Started February 1988, graduated March 1994
 
 > **Lastest Specializations**
 > 
-- 2022, AWS Fundamentals, AWS
-- 2022, Web Development, University of Michigan
-- 2022, Programming with Python, University of Michigan
-- 2022, Data Science, University of Michigan
+- 2022, AWS: AWS Fundamentals
+- 2022, University of Michigan: Web Development, Programming with Python, and Data Science.
 
 ## 💼 Activities
 
 > **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/), Remote, 🇪🇸 Spain
 
-- 2024, Full Stack Coding Bootcamp, Cohorts Spain-65, and Spain-72
-- 2023, Full Stack Coding Bootcamp, Cohorts Spain-44, Spain-46, Spain-50, and Spain-54
-- 2022, Full Stack Coding Bootcamp, Cohorts Madrid-30, and Madrid-34
+- 2024, Full Stack Coding Bootcamp: Cohorts Spain-65, and Spain-72
+- 2023, Full Stack Coding Bootcamp: Cohorts Spain-44, Spain-46, Spain-50, and Spain-54
+- 2022, Full Stack Coding Bootcamp: Cohorts Madrid-30, and Madrid-34
 
 > **Professor** at [UCU - Catholic University of Uruguay](https://ucu.edu.uy), Hybrid, 🇺🇾 Uruguay
 
@@ -79,3 +74,8 @@ I'm a B.E. in Computer Science with over 30 years of experience. I'm a Full Stac
 - [PyCharm Professional](https://www.jetbrains.com/pycharm/download/) as the Python IDE for Professional Developers
 - [JetBrians](https://www.jetbrains.com/) as essential tools for software developers and teams
 - [AWS](https://aws.amazon.com/) as cloud computing
+
+## ℹ️ Contact Me
+
+| [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [Website](https://chocobar.net) |
+
