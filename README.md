@@ -55,18 +55,18 @@ I am a B.E. in Computer Science with over 30 years of experience. I'm a Full Sta
 - 2022, AWS: AWS Fundamentals
 - 2022, University of Michigan: Web Development, Programming with Python, and Data Science.
 
-## 💼 Activities
+## 🖥️ Activities
 
-> **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/), Remote, 🇪🇸 Spain
+> **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/), Remote
 
-- 2024, Full Stack Coding Bootcamp: Cohorts Spain-65, and Spain-72
-- 2023, Full Stack Coding Bootcamp: Cohorts Spain-44, Spain-46, Spain-50, and Spain-54
-- 2022, Full Stack Coding Bootcamp: Cohorts Madrid-30, and Madrid-34
+- 2024, Full Stack Coding Bootcamp: Cohorts 🇪🇸 Spain-65, 🇺🇸 Miami-es-01, and 🇪🇸 Spain-77
+- 2023, Full Stack Coding Bootcamp: Cohorts 🇪🇸 Spain-44, 🇪🇸 Spain-46, 🇪🇸 Spain-50, and 🇪🇸 Spain-54
+- 2022, Full Stack Coding Bootcamp: Cohorts 🇪🇸 Madrid-30, and 🇪🇸 Madrid-34
 
-> **Professor** at [UCU - Catholic University of Uruguay](https://ucu.edu.uy), Hybrid, 🇺🇾 Uruguay
+> **Professor** at [UCU - Catholic University of Uruguay](https://ucu.edu.uy), Hybrid
 
-- 2024, Programming for Data Analysis (Python)
-- 2023, Programming for Data Analysis (Python)
+- 2024, Programming for Data Analysis (Python) 🇺🇾 Uruguay
+- 2023, Programming for Data Analysis (Python) 🇺🇾 Uruguay
 
 ## 💡 Advices
 
@@ -75,7 +75,7 @@ I am a B.E. in Computer Science with over 30 years of experience. I'm a Full Sta
 - [JetBrians](https://www.jetbrains.com/) as essential tools for software developers and teams
 - [AWS](https://aws.amazon.com/) as cloud computing
 
-## ℹ️ Contact Me
+## 🌐 Contact Me
 
 | [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [Website](https://chocobar.net) |
 
