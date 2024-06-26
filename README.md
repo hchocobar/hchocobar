@@ -59,9 +59,9 @@ I am a B.E. in Computer Science with over 30 years of experience. I'm a Full Sta
 
 > **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/), Remote
 
-- 2024, Full Stack Coding Bootcamp: Cohorts 🇪🇸 Spain-65, 🇺🇸 Miami-es-01, and 🇪🇸 Spain-77
-- 2023, Full Stack Coding Bootcamp: Cohorts 🇪🇸 Spain-44, 🇪🇸 Spain-46, 🇪🇸 Spain-50, and 🇪🇸 Spain-54
-- 2022, Full Stack Coding Bootcamp: Cohorts 🇪🇸 Madrid-30, and 🇪🇸 Madrid-34
+- 2024, Full Stack Coding Bootcamp: Cohorts 🇪🇸 Spain-65, 🇺🇸 Miami-Es-01, 🇪🇸 Spain-77
+- 2023, Full Stack Coding Bootcamp: Cohorts 🇪🇸 Spain-44, 🇪🇸 Spain-46, 🇪🇸 Spain-50, 🇪🇸 Spain-54
+- 2022, Full Stack Coding Bootcamp: Cohorts 🇪🇸 Madrid-30, 🇪🇸 Madrid-34
 
 > **Professor** at [UCU - Catholic University of Uruguay](https://ucu.edu.uy), Hybrid
 
