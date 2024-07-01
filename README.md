@@ -7,9 +7,6 @@
 <img src="./img/logo-utn.png"
      height="50"
      alt="Universidad Tecnológica Nacional">
-<img src="./img/university-of-michigan.jpeg"
-     height="50"
-     alt="University of Michigan">
 <img src="./img/logo-ubuntu.png"
      height="50"
      alt="Logo Ubuntu">
@@ -48,12 +45,7 @@ I am a B.E. in Computer Science with over 30 years of experience. I'm a Full Sta
 
 > **B.E. in Computer Science** from [UTN - National Technological University](https://www.utn.edu.ar/es/), Córdoba, 🇦🇷 Argentina
 >
-- Univesity Degree: "Ingeniero en Sistemas de Información". Started February 1988, graduated March 1994
-
-> **Lastest Specializations**
-> 
-- 2022, AWS: AWS Fundamentals
-- 2022, University of Michigan: Web Development, Programming with Python, and Data Science.
+- Univesity Degree: "Ingeniero en Sistemas de Información". Started in February 1988, graduated in March 1994
 
 ## 🖥️ Activities
 
@@ -77,5 +69,5 @@ I am a B.E. in Computer Science with over 30 years of experience. I'm a Full Sta
 
 ## 🌐 Contact Me
 
-| [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [Website](https://chocobar.net) |
+> [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [Website](https://chocobar.net) |
 
