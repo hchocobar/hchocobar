@@ -6,7 +6,13 @@ I have a B.E. in Computer Science and over 30 years of software development and 
 
 Contact me: [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [🌐 Website](https://chocobar.net) |
 
-## 🖥️ Activities
+## 🏛️ Education 🎓
+
+> **B.E. in Computer Science** from [UTN - National Technological University](https://www.utn.edu.ar/es/), Córdoba, 🇦🇷 Argentina
+
+- Univesity Degree: 'Ingeniero en Sistemas de Información'. I started in February 1988 and graduated in March 1994.
+
+## 🖥️ Activities 💼
 
 > **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/), Remote
 
@@ -19,13 +25,7 @@ Contact me: [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [🌐 Web
 - 2024, Programming for Data Analysis (Python) 🇺🇾 Uruguay, in collaboration with 🇲🇽 Iberoamerican University Torreón.
 - 2023, Programming for Data Analysis (Python) 🇺🇾 Uruguay.
 
-## 🎓 Education
-
-> **B.E. in Computer Science** from [UTN - National Technological University](https://www.utn.edu.ar/es/), Córdoba, 🇦🇷 Argentina
-
-- Univesity Degree: "Ingeniero en Sistemas de Información". I started in February 1988 and graduated in March 1994.
-
-## 💡 Advices
+## 💡 Advices 🌞
 
 - [AWS](https://aws.amazon.com/) as cloud computing.
 - [Ubuntu](https://ubuntu.com/download/desktop) as Operating System.
