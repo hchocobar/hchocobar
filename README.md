@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-Greeting! My name is Héctor
+Greeting! My name is Héctor 
 
 I have a B.E. in Computer Science and over 30 years of software development and network infrastructure experience. I'm a Full Stack Developer and Data Science enthusiast. I'm a Professor and Senior Mentor as well.
 
