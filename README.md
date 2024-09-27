@@ -1,8 +1,6 @@
-## 🚀 About Me
+## 🌞 Abaut Me 🚀
 
-Greeting! My name is Héctor 
-
-I have a B.E. in Computer Science and over 30 years of software development and network infrastructure experience. I'm a Full Stack Developer and Data Science enthusiast. I'm a Professor and Senior Mentor as well.
+Greeting! My name is Héctor and I have over 30 years of experience in the software development and network infrastructure industries. I'm a Full Stack Developer and Data Science enthusiast. I'm a Professor and Senior Mentor as well.
 
 Contact me: [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [🌐 Website](https://chocobar.net) |
 
@@ -11,8 +9,14 @@ Contact me: [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [🌐 Web
 > **B.E. in Computer Science** from [UTN - National Technological University](https://www.utn.edu.ar/es/), Córdoba, 🇦🇷 Argentina
 
 - Univesity Degree: 'Ingeniero en Sistemas de Información'. I started in February 1988 and graduated in March 1994.
+- My first course as a programmer was in 1985, and it included Basic, Pascal, Fortran, and RPG languages.
 
 ## 🖥️ Activities 💼
+
+> **Professor** at [UCU - Catholic University of Uruguay](https://ucu.edu.uy)
+
+- 2024, Programming for Data Analysis (Python) 🇺🇾 Uruguay, in collaboration with 🇲🇽 Iberoamerican University Torreón.
+- 2023, Programming for Data Analysis (Python) 🇺🇾 Uruguay.
 
 > **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/), Remote
 
@@ -20,17 +24,13 @@ Contact me: [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [🌐 Web
 - 2023, Full Stack Coding Bootcamp: Cohorts 🇪🇸 Spain-44, 🇪🇸 Spain-46, 🇪🇸 Spain-50, 🇪🇸 Spain-54
 - 2022, Full Stack Coding Bootcamp: Cohorts 🇪🇸 Madrid-30, 🇪🇸 Madrid-34
 
-> **Professor** at [UCU - Catholic University of Uruguay](https://ucu.edu.uy), Hybrid
-
-- 2024, Programming for Data Analysis (Python) 🇺🇾 Uruguay, in collaboration with 🇲🇽 Iberoamerican University Torreón.
-- 2023, Programming for Data Analysis (Python) 🇺🇾 Uruguay.
-
 ## 💡 Advices 🌞
 
 - [AWS](https://aws.amazon.com/) as cloud computing.
 - [Ubuntu](https://ubuntu.com/download/desktop) as Operating System.
-- [JetBrians](https://www.jetbrains.com/) as essential tools for software developers and teams.
 - [PyCharm](https://www.jetbrains.com/pycharm/download/) as the Python IDE for Professional Developers.
+- [JetBrians](https://www.jetbrains.com/) as essential tools for software developers and teams.
+
 
 ## ❤️ I like it as well
 
