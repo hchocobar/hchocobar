@@ -1,6 +1,6 @@
 ## 🌞 Abaut Me 🚀
 
-Greeting! My name is Héctor and I have over 30 years of experience in the software development and network infrastructure industries. I'm a Full Stack Developer and Data Science enthusiast. I'm a Professor and Senior Mentor as well.
+Greetings! My name is Héctor, and I have over 30 years of experience in the software development and network infrastructure industries. I'm a Full-Stack Developer and Data Science enthusiast. I'm also a Professor and Senior Mentor.
 
 Contact me: [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [🌐 Website](https://chocobar.net) |
 
@@ -9,7 +9,7 @@ Contact me: [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [🌐 Web
 > **B.E. in Computer Science** from [UTN - National Technological University](https://www.utn.edu.ar/es/), Córdoba, 🇦🇷 Argentina
 
 - Univesity degree: **"Ingeniero en Sistemas de Información"**. I started in February 1988 and graduated in March 1994.
-- My first course as a programmer was in 1985, and it included Basic, Pascal, Fortran, and RPG languages.
+- My first course as a programmer was in 1986, and it included Basic, Pascal, Fortran, and RPG languages.
 
 ## 🖥️ Activities 💼
 
