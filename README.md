@@ -20,6 +20,7 @@ Contact me: [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [🌐 Web
 
 > **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/)
 
+- 2025, Full Stack Coding Bootcamp: Cohorts 🇪🇸 Spain-91, 🇪🇸 Spain-93
 - 2024, Full Stack Coding Bootcamp: Cohorts 🇪🇸 Spain-65, 🇪🇸 Spain-72, 🇺🇸 Miami-es-01, 🇪🇸 Spain-77
 - 2023, Full Stack Coding Bootcamp: Cohorts 🇪🇸 Spain-44, 🇪🇸 Spain-46, 🇪🇸 Spain-50, 🇪🇸 Spain-54
 - 2022, Full Stack Coding Bootcamp: Cohorts 🇪🇸 Madrid-30, 🇪🇸 Madrid-34
