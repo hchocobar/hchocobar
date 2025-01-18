@@ -1,6 +1,6 @@
 ## 🌞 Abaut Me 🚀
 
-Greetings! My name is Héctor, and I have over 30 years of experience in the software development and network infrastructure industries. I'm a Full-Stack Developer and Data Science enthusiast. I'm also a Professor and Senior Mentor.
+Greetings! My name is Héctor, and I have over 30 years of experience in the software development and network infrastructure industries. I'm a Full-Stack Developer and Data Science Engineer. I'm also a Professor and Senior Mentor.
 
 Contact me: [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [🌐 Website](https://chocobar.net) |
 
@@ -15,6 +15,7 @@ Contact me: [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [🌐 Web
 
 > **Professor** at [UCU - Catholic University of Uruguay](https://ucu.edu.uy)
 
+- 2025, OOP, and Programming for Data Analysis, 🇺🇾 Uruguay.
 - 2024, Programming for Data Analysis, 🇺🇾 Uruguay, in collaboration with [Iberoamerican University Torreón](https://www.iberotorreon.mx/), 🇲🇽 México
 - 2023, Programming for Data Analysis, 🇺🇾 Uruguay.
 
