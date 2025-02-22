@@ -1,6 +1,6 @@
 ## 🌞 Abaut Me 🚀
 
-Greetings! My name is Héctor, and I have over 30 years of experience in the software development and network infrastructure industries. I'm a Full-Stack Developer and Data Science Engineer. I'm also a Professor and Senior Mentor.
+Greetings! My name is Héctor, and I have over 30 years of experience in the software development and network infrastructure industries. I'm a Professor and Senior Mentor, as well as a Full-Stack Developer and Data Science Engineer.
 
 Contact me: [LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [🌐 Website](https://chocobar.net) |
 
