@@ -30,7 +30,7 @@ Contact me: | [💬 LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [�
 - 2023, Full Stack Coding Bootcamp. Cohorts: Spain-44 🇪🇸, Spain-46 🇪🇸, Spain-50 🇪🇸, Spain-54 🇪🇸
 - 2022, Full Stack Coding Bootcamp. Cohorts: Madrid-30 🇪🇸, Madrid-34 🇪🇸
 
-## 💡 Advices 🌞
+## 💡 Advices 🌞 
 
 - [AWS](https://aws.amazon.com/) as cloud computing
 - [Ubuntu](https://ubuntu.com/download/desktop) as Operating System
