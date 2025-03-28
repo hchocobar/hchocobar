@@ -1,6 +1,6 @@
 ## 🦁 Abaut Me 🦮
 
-Greetings! 
+Greetings!
 
 My name is Héctor, and I have over 30 years of experience in the software development and network infrastructure industries. I'm a Full-Stack Developer, Data Science Engineer, Senior Mentor, and Professor.
 
