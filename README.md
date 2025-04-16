@@ -11,24 +11,26 @@ Contact me: | [💬 LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [�
 > **B.E. in Computer Science** from [UTN - National Technological University](https://www.utn.edu.ar/es/), Córdoba, 🇦🇷 Argentina
 
 - Univesity degree: **"Ingeniero en Sistemas de Información"**. I started in February 1988 and graduated in March 1994.
-- My first course as a programmer was in 1986, and it included Basic, Pascal, Fortran, and RPG languages.
+- My first course as a programmer was in 1986, and it included BASIC, Pascal, Fortran, and RPG languages.
 
 ## 🖥️ Activities 💻
 
 > **Professor** at [UCU - Catholic University of Uruguay](https://ucu.edu.uy)
 
-- 2025, Programming for Data Analysis, 🇺🇾 Uruguay.
-- 2025, Object-Oriented Programming, 🇺🇾 Uruguay.
+- 2025, Object-Oriented Programming, and Programming for Data Analysis 🇺🇾 Uruguay.
 - 2024, Programming for Data Analysis, 🇺🇾 Uruguay, in collaboration with [Iberoamerican University Torreón](https://www.iberotorreon.mx/), 🇲🇽 México
 - 2023, Programming for Data Analysis, 🇺🇾 Uruguay.
 
 > **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/)
 
-- 2025, Data Science and Machine Learning Bootcamp. Cohorts: Latam-10 🇦🇷 🇨🇴 🇵🇪 🇺🇾 🇻🇪, Spain-16 🇪🇸
-- 2025, Full Stack Coding Bootcamp. Cohorts: Spain-91 🇪🇸, Spain-93 🇪🇸, Spain-108 🇪🇸
-- 2024, Full Stack Coding Bootcamp. Cohorts: Spain-65 🇪🇸, Spain-72 🇪🇸, Spain-77 🇪🇸, Miami-es-01 🇺🇸
-- 2023, Full Stack Coding Bootcamp. Cohorts: Spain-44 🇪🇸, Spain-46 🇪🇸, Spain-50 🇪🇸, Spain-54 🇪🇸
-- 2022, Full Stack Coding Bootcamp. Cohorts: Madrid-30 🇪🇸, Madrid-34 🇪🇸
+- 2025, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Spain-91, 🇪🇸 Spain-93, 🇪🇸 Spain-108, 🇪🇸 Spain-112
+- 2024, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Spain-65, 🇪🇸 Spain-72, 🇪🇸 Spain-77, 🇺🇸 Miami-es-01
+- 2023, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Spain-44, 🇪🇸 Spain-46, 🇪🇸 Spain-50, 🇪🇸 Spain-54
+- 2022, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Madrid-30, 🇪🇸 Madrid-34
+
+> **Teacher Assistant** at [4Geeks Academy](https://4geeksacademy.com/)
+
+- 2025, Data Science and Machine Learning Bootcamp. Cohorts: 🇦🇷 🇨🇴 🇵🇪 🇺🇾 🇻🇪 Latam-10, 🇪🇸 Spain-16
 
 ## 💡 Advices 🌞 
 
