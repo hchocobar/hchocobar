@@ -11,7 +11,7 @@ Contact me: | [💬 LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [�
 > **B.E. in Computer Science** from [UTN - National Technological University](https://www.utn.edu.ar/es/), Córdoba, 🇦🇷 Argentina
 
 - Univesity degree: **"Ingeniero en Sistemas de Información"**. I started in February 1988 and graduated in March 1994.
-- My first course as a programmer was in 1986, and it included BASIC, Pascal, Fortran, and RPG languages.
+- My first course as a programmer was in 1986, and it included BASIC, Pascal, Fortran, COBOL, and RPG languages.
 
 ## 🖥️ Activities 💻
 
