@@ -13,13 +13,12 @@ Contact me: | [💬 LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [�
 - Univesity degree: **"Ingeniero en Sistemas de Información"**. I started in February 1988 and graduated in March 1994.
 - My first course as a programmer was in 1986, and it included BASIC, Pascal, Fortran, COBOL, and RPG languages.
 
-## 🖥️ Activities 💻
+## 🖥️ Last Activities 💻
 
 > **Professor** at [UCU - Catholic University of Uruguay](https://ucu.edu.uy)
 
-- 2025, Programming for Data Analysis. 🇺🇾 Uruguay.
-- 2025, Object-Oriented Programming. 🇺🇾 Uruguay.
-- 2024, Programming for Data Analysis. 🇺🇾 Uruguay, in collaboration with [Iberoamerican University Torreón](https://www.iberotorreon.mx/), 🇲🇽 México
+- 2025, Programming for Data Analysis & Object-Oriented Programming. 🇺🇾 Uruguay.
+- 2024, Programming for Data Analysis. 🇺🇾 Uruguay.
 - 2023, Programming for Data Analysis. 🇺🇾 Uruguay.
 
 > **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/)
