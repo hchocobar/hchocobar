@@ -17,9 +17,9 @@ Contact me: | [💬 LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [�
 
 > **Professor** at [UCU - Catholic University of Uruguay](https://ucu.edu.uy)
 
-- 2025, Programming for Data Analysis & Object-Oriented Programming. 🇺🇾 Uruguay.
-- 2024, Programming for Data Analysis. 🇺🇾 Uruguay.
-- 2023, Programming for Data Analysis. 🇺🇾 Uruguay.
+- 2025, Programming for Data Analysis & Object-Oriented Programming. 🇺🇾 Salto, Uruguay.
+- 2024, Programming for Data Analysis. 🇺🇾 Salto, Uruguay.
+- 2023, Programming for Data Analysis. 🇺🇾 Salto, Uruguay.
 
 > **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/)
 
