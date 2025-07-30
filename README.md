@@ -1,8 +1,23 @@
 ## 🦁 Abaut Me 🦮 🐍
 
-Greetings! My name is Héctor, and I have over 30 years of experience in the software development and network infrastructure industries. I'm a Full-Stack Developer, Data Science Engineer, Senior Mentor, and Professor.
+Hi there! I'm Héctor Chocobar Torrejón
 
-Contact me: | [💬 LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [🌐 Website](https://chocobar.net) |
+I’m a Systems Engineer, university lecturer, and senior mentor in Full-Stack, Data Science, and Machine Learning bootcamps. With over 30 years of experience in software and telecom, I’m currently focused on teaching, building data-driven solutions, and mentoring new tech professionals.
+
+### 📫 How to reach me
+
+- 🌐 [chocobar.net](https://chocobar.net)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hector-chocobar/)
+
+## 🚀 What you'll find in this profile:
+
+- Python-based Data Engineering and Data Science projects
+- Real-life use cases using Pandas, NumPy, Matplotlib, scikit-learn, etc.
+- Jupyter Notebooks and code samples from my university courses and bootcamps
+- Web APIs built with Flask and connected to SQL databases
+- Web development projects using React + Flask stack
+- Exploratory Data Analysis (EDA), Machine Learning, and NLP examples
+- Python automation scripts and RegEx use cases
 
 ## 🏛️ Education 🎓
 
@@ -11,25 +26,29 @@ Contact me: | [💬 LinkedIn](https://www.linkedin.com/in/hector-chocobar/) | [�
 - Univesity degree: **"Ingeniero en Sistemas de Información"**. I started in February 1988 and graduated in March 1994.
 - My first course as a programmer was in 1986, and it included BASIC, Pascal, Fortran, COBOL, and RPG languages.
 
-## 🖥️ Last Activities 💻
+## 📚 Teaching & Mentorship 🖥️
 
-> **Professor** at [UCU - Catholic University of Uruguay](https://ucu.edu.uy)
+Passionate about simplifying complexity, sharing knowledge, and building future tech talent
+
+
+> **Lecturer** at [UCU - Catholic University of Uruguay](https://ucu.edu.uy) (Salto) in programming and data analysis
 
 - 2025, Programming for Data Analysis & Object-Oriented Programming. 🇺🇾 Salto, Uruguay.
 - 2024, Programming for Data Analysis. 🇺🇾 Salto, Uruguay.
 - 2023, Programming for Data Analysis. 🇺🇾 Salto, Uruguay.
 
-> **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/)
+> **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/) bootcamps (Data Science, Machine Learning, and Full-Stack tracks)
 
-- 2025, Data Science and Machine Learning Bootcamp. Cohorts: 🇪🇸 Spain-17
+- 2025, Data Science and Machine Learning Bootcamp. Cohorts: 🇦🇷 🇨🇴 🇵🇪 🇺🇾 🇻🇪 Latam-10, 🇪🇸 Spain-16, 🇪🇸 Spain-17
 - 2025, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Spain-91, 🇪🇸 Spain-93, 🇪🇸 Spain-108
 - 2024, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Spain-65, 🇪🇸 Spain-72, 🇪🇸 Spain-77, 🇺🇸 Miami-es-01
 - 2023, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Spain-44, 🇪🇸 Spain-46, 🇪🇸 Spain-50, 🇪🇸 Spain-54
 - 2022, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Madrid-30, 🇪🇸 Madrid-34
 
-> **Teacher Assistant** at [4Geeks Academy](https://4geeksacademy.com/)
+## 🌱 Currently learning...
 
-- 2025, Data Science and Machine Learning Bootcamp. Cohorts: 🇦🇷 🇨🇴 🇵🇪 🇺🇾 🇻🇪 Latam-10, 🇪🇸 Spain-16
+- Máster Executive MBA Gadex in Artificial Intelligence
+- Cloud architecture with AWS
 
 ## 💡 Advices 🌞 
 
