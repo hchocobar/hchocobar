@@ -31,7 +31,7 @@ I’m a Systems Engineer, university lecturer, and senior mentor in Full-Stack, 
 Passionate about simplifying complexity, sharing knowledge, and building future tech talent
 
 
-> **Lecturer** at [UCU - Catholic University of Uruguay](https://ucu.edu.uy) (Salto) in programming and data analysis
+> **Lecturer** at [Catholic University of Uruguay](https://ucu.edu.uy) in programming and data analysis
 
 - 2025, Programming for Data Analysis & Object-Oriented Programming. 🇺🇾 Salto, Uruguay.
 - 2024, Programming for Data Analysis. 🇺🇾 Salto, Uruguay.
