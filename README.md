@@ -22,9 +22,9 @@ I’m a Systems Engineer, university lecturer, and senior mentor in Full-Stack, 
 ## 🏛️ Education 🎓
 
 > **B.E. in Computer Science** from [UTN - National Technological University](https://www.utn.edu.ar/es/), Córdoba, 🇦🇷 Argentina
+> 
+> Univesity degree: **"Ingeniero en Sistemas de Información"**.
 
-- Univesity degree: **"Ingeniero en Sistemas de Información"**. I started in February 1988 and graduated in March 1994.
-- My first course as a programmer was in 1986, and it included BASIC, Pascal, Fortran, COBOL, and RPG languages.
 
 ## 📚 Teaching & Mentorship 🖥️
 
@@ -33,13 +33,13 @@ Passionate about simplifying complexity, sharing knowledge, and building future 
 
 > **Lecturer** at [Catholic University of Uruguay](https://ucu.edu.uy) in programming and data analysis
 
-- 2025, Programming for Data Analysis & Object-Oriented Programming. 🇺🇾 Salto, Uruguay.
-- 2024, Programming for Data Analysis. 🇺🇾 Salto, Uruguay.
-- 2023, Programming for Data Analysis. 🇺🇾 Salto, Uruguay.
+- 2025, Programming for Data Analysis & Object-Oriented Programming. 🇺🇾 Uruguay, campus: Salto.
+- 2024, Programming for Data Analysis. 🇺🇾 Uruguay, campus: Salto.
+- 2023, Programming for Data Analysis. 🇺🇾 Uruguay, campus: Salto.
 
 > **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/) bootcamps (Data Science, Machine Learning, and Full-Stack tracks)
 
-- 2025, Data Science and Machine Learning Bootcamp. Cohorts: 🇦🇷 🇨🇴 🇵🇪 🇺🇾 🇻🇪 Latam-10, 🇪🇸 Spain-16, 🇪🇸 Spain-17
+- 2025, Data Science & Machine Learning Bootcamp. Cohorts: 🇦🇷 🇨🇴 🇵🇪 🇺🇾 🇻🇪 Latam-10, 🇪🇸 Spain-16, 🇪🇸 Spain-17
 - 2025, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Spain-91, 🇪🇸 Spain-93, 🇪🇸 Spain-108
 - 2024, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Spain-65, 🇪🇸 Spain-72, 🇪🇸 Spain-77, 🇺🇸 Miami-es-01
 - 2023, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Spain-44, 🇪🇸 Spain-46, 🇪🇸 Spain-50, 🇪🇸 Spain-54
