@@ -45,7 +45,7 @@ Passionate about simplifying complexity, sharing knowledge, and building future 
 - 2023, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Spain-44, 🇪🇸 Spain-46, 🇪🇸 Spain-50, 🇪🇸 Spain-54
 - 2022, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Madrid-30, 🇪🇸 Madrid-34
 
-## 🌱 Currently learning...
+## 🌱 Currently learning
 
 - Máster Executive MBA Gadex in Artificial Intelligence
 - Cloud architecture with AWS
