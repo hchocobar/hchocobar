@@ -30,10 +30,12 @@ I’m a Systems Engineer, university lecturer, and senior mentor in Full-Stack, 
 
 Passionate about simplifying complexity, sharing knowledge, and building future tech talent
 
+> **Lecturer** at [UCU Center of Continuing Education](https://www.ucu.edu.uy/categoria/CEC-362) in Python development
 
-> **Lecturer** at [Catholic University of Uruguay](https://ucu.edu.uy) in programming and data analysis
+- 2025, Prograr desde cero con Python, CEC UCU. 🇺🇾 Uruguay
 
-- 2025, Prograr desde cero con Python, CEC Centro de Educación Continua. 🇺🇾 Uruguay
+> **Professor** at [Catholic University of Uruguay](https://ucu.edu.uy) in programming and data analysis
+
 - 2025, Programming for Data Analysis & Object-Oriented Programming. 🇺🇾 Uruguay, campus: Salto
 - 2024, Programming for Data Analysis. 🇺🇾 Uruguay, campus: Salto
 - 2023, Programming for Data Analysis. 🇺🇾 Uruguay, campus: Salto
