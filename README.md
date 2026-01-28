@@ -1,4 +1,4 @@
-## 🦁 Abaut Me 🦮 🐍
+## 🦁 About Me 🦮 🐍
 
 Hi there! I'm Héctor Chocobar Torrejón
 
