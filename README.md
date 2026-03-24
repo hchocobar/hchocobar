@@ -2,7 +2,7 @@
 
 Hi there! I'm Héctor Chocobar Torrejón
 
-I’m a Systems Engineer, university lecturer, and senior mentor in Full-Stack, Data Science, and Machine Learning bootcamps. With over 30 years of experience in software and telecom, I’m currently focused on teaching, building data-driven solutions, and mentoring new tech professionals.
+I’m a Systems Engineer, university lecturer, and senior mentor in AI Engineering bootcamps. With over 30 years of experience in software and telecom, I’m currently focused on teaching, building data-driven solutions, and mentoring new tech professionals.
 
 ### 📫 How to reach me
 
@@ -30,18 +30,18 @@ I’m a Systems Engineer, university lecturer, and senior mentor in Full-Stack, 
 
 Passionate about simplifying complexity, sharing knowledge, and building future tech talent
 
-> **Lecturer** at [UCU Center of Continuing Education](https://www.ucu.edu.uy/categoria/CEC-362) in Python development
+> **Professor & Lecturer** at [Catholic University of Uruguay](https://ucu.edu.uy) in programming and data analysis
 
-- 2025, Prograr desde cero con Python, CEC UCU. 🇺🇾 Uruguay
-
-> **Professor** at [Catholic University of Uruguay](https://ucu.edu.uy) in programming and data analysis
-
+- 2026, Programming for Data Analysis & Object-Oriented Programming. 🇺🇾 Uruguay, campus: Salto
+- 2026, Prograr desde cero con Python, CEC UCU. 🇺🇾 Uruguay
 - 2025, Programming for Data Analysis & Object-Oriented Programming. 🇺🇾 Uruguay, campus: Salto
+- 2025, Prograr desde cero con Python, CEC UCU. 🇺🇾 Uruguay
 - 2024, Programming for Data Analysis. 🇺🇾 Uruguay, campus: Salto
 - 2023, Programming for Data Analysis. 🇺🇾 Uruguay, campus: Salto
 
 > **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/) bootcamps (Data Science, Machine Learning, and Full-Stack tracks)
 
+- 2026, AI Engineering Bootcamp. Cohorts: 🇪🇸 Spain-01
 - 2025, Data Science & Machine Learning. Cohorts: 🇦🇷 🇨🇴 🇵🇪 🇺🇾 🇻🇪 Latam-10, 🇪🇸 Spain-16, 🇪🇸 Spain-17, 🇪🇸 Spain-20
 - 2025, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Spain-91, 🇪🇸 Spain-93, 🇪🇸 Spain-108, 🇪🇸 Spain-123
 - 2024, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Spain-65, 🇪🇸 Spain-72, 🇪🇸 Spain-77, 🇺🇸 Miami-es-01
@@ -51,7 +51,6 @@ Passionate about simplifying complexity, sharing knowledge, and building future 
 ## 🌱 Currently learning
 
 - Máster Executive MBA Gadex in Artificial Intelligence
-- Cloud architecture with AWS
 
 ## 💡 Advices 🌞 
 
