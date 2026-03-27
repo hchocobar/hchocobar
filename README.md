@@ -51,6 +51,7 @@ Passionate about simplifying complexity, sharing knowledge, and building future 
 ## 🌱 Currently learning
 
 - Máster Executive MBA Gadex in Artificial Intelligence
+- AI Engineering
 
 ## 💡 Advices 🌞 
 
