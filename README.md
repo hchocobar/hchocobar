@@ -30,17 +30,20 @@ I’m a Systems Engineer, university lecturer, and senior mentor in AI Engineeri
 
 Passionate about simplifying complexity, sharing knowledge, and building future tech talent
 
-> **Professor & Lecturer** at [Catholic University of Uruguay](https://ucu.edu.uy) in programming and data analysis
-
-- 2026, Programming for Data Analysis & Object-Oriented Programming. 🇺🇾 Uruguay, campus: Salto
-- 2026, Prograr desde cero con Python, CEC UCU. 🇺🇾 Uruguay
-- 2025, Programming for Data Analysis & Object-Oriented Programming. 🇺🇾 Uruguay, campus: Salto
-- 2025, Prograr desde cero con Python, CEC UCU. 🇺🇾 Uruguay
+> **Professor & Lecturer** at [Catholic University of Uruguay](https://ucu.edu.uy) in programming, data analysis, and AI
+- 2026,
+    - Python for data analysis. 🇺🇾 Uruguay, CEC UCU
+    - Programming from scratch with Python. 🇺🇾 Uruguay, CEC UCU
+    - Programming for Data Analysis. 🇺🇾 Uruguay, campus: Salto
+    - Object-Oriented Programming. 🇺🇾 Uruguay, campus: Salto
+- 2025,
+    - Programming from scratch with Python. 🇺🇾 Uruguay, CEC UCU
+    - Programming for Data Analysis. 🇺🇾 Uruguay, campus: Salto
+    - Object-Oriented Programming. 🇺🇾 Uruguay, campus: Salto
 - 2024, Programming for Data Analysis. 🇺🇾 Uruguay, campus: Salto
 - 2023, Programming for Data Analysis. 🇺🇾 Uruguay, campus: Salto
 
-> **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/) bootcamps (Data Science, Machine Learning, and Full-Stack tracks)
-
+> **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/) bootcamps (Full-Stack, Data Science, Machine Learning, and AI Engineering tracks)
 - 2026, AI Engineering Bootcamp. Cohorts: 🇪🇸 Spain-01
 - 2025, Data Science & Machine Learning. Cohorts: 🇦🇷 🇨🇴 🇵🇪 🇺🇾 🇻🇪 Latam-10, 🇪🇸 Spain-16, 🇪🇸 Spain-17, 🇪🇸 Spain-20
 - 2025, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Spain-91, 🇪🇸 Spain-93, 🇪🇸 Spain-108, 🇪🇸 Spain-123
