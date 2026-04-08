@@ -1,6 +1,6 @@
-## 🦁 About Me 🦮 🐍
+# Héctor Chocobar Torrejón 🦁 🦮
 
-Hi there! I'm Héctor Chocobar Torrejón
+## 🐍 About Me
 
 I’m a Systems Engineer, university lecturer, and senior mentor in AI Engineering bootcamps. With over 30 years of experience in software and telecom, I’m currently focused on teaching, building data-driven solutions, and mentoring new tech professionals.
 
@@ -9,7 +9,7 @@ I’m a Systems Engineer, university lecturer, and senior mentor in AI Engineeri
 - 🌐 [chocobar.net](https://chocobar.net)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hector-chocobar/)
 
-## 🚀 What you'll find in this profile:
+## 🚀 What you'll find in this profile
 
 - Python-based Data Engineering and Data Science projects
 - Real-life use cases using Pandas, NumPy, Matplotlib, scikit-learn, etc.
