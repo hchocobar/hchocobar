@@ -32,16 +32,16 @@ Passionate about simplifying complexity, sharing knowledge, and building future 
 
 > **Professor & Lecturer** at [Catholic University of Uruguay](https://ucu.edu.uy) in programming, data analysis, and AI
 - 2026,
-    - Python for data analysis. 🇺🇾 Uruguay, CEC UCU
+    - Python for Data Analysis. 🇺🇾 Uruguay, CEC UCU
     - Programming from scratch with Python. 🇺🇾 Uruguay, CEC UCU
-    - Programming for Data Analysis. 🇺🇾 Uruguay, campus: Salto
-    - Object-Oriented Programming. 🇺🇾 Uruguay, campus: Salto
+    - Programming for Data Analysis with Python. 🇺🇾 Uruguay, campus: Salto
+    - Object-Oriented Programming with Python. 🇺🇾 Uruguay, campus: Salto
 - 2025,
     - Programming from scratch with Python. 🇺🇾 Uruguay, CEC UCU
-    - Programming for Data Analysis. 🇺🇾 Uruguay, campus: Salto
-    - Object-Oriented Programming. 🇺🇾 Uruguay, campus: Salto
-- 2024, Programming for Data Analysis. 🇺🇾 Uruguay, campus: Salto
-- 2023, Programming for Data Analysis. 🇺🇾 Uruguay, campus: Salto
+    - Programming for Data Analysis with Python. 🇺🇾 Uruguay, campus: Salto
+    - Object-Oriented Programming with Python. 🇺🇾 Uruguay, campus: Salto
+- 2024, Programming for Data Analysis with Python. 🇺🇾 Uruguay, campus: Salto
+- 2023, Programming for Data Analysis with Python. 🇺🇾 Uruguay, campus: Salto
 
 > **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/) bootcamps (Full-Stack, Data Science, Machine Learning, and AI Engineering tracks)
 - 2026, AI Engineering Bootcamp. Cohorts: 🇪🇸 Spain-01, 🇦🇷 🇨🇴 🇺🇾 🇻🇪 Latam-01
