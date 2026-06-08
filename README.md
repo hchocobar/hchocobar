@@ -2,7 +2,7 @@
 
 ## 🐍 About Me
 
-I’m a Systems Engineer, university lecturer, and senior mentor in AI Engineering bootcamps. With over 30 years of experience in software and telecom, I’m currently focused on teaching, building data-driven solutions, and mentoring new tech professionals.
+I’m a Systems Engineer, and senior mentor in AI Engineering bootcamps. With over 30 years of experience in software and telecom, I’m currently focused on teaching, building data-driven solutions, and mentoring new tech professionals.
 
 ### 📫 How to reach me
 
@@ -55,7 +55,6 @@ Passionate about simplifying complexity, sharing knowledge, and building future 
 ## 🌱 Currently learning
 
 - Máster Executive MBA Gadex in Artificial Intelligence
-- AI Engineering
 
 ## 💡 Advices 🌞 
 
