@@ -2,7 +2,9 @@
 
 ## 🐍 About Me
 
-I’m a Systems Engineer, and senior mentor in AI Engineering bootcamps. With over 30 years of experience in software and telecom, I’m currently focused on teaching, building data-driven solutions, and mentoring new tech professionals.
+I’m a Systems Engineer, Python Developer, and Senior Mentor in AI Engineering bootcamps. 
+
+With over 30 years of experience in software and telecom, I’m currently focused on teaching, building data-driven solutions, and mentoring new tech professionals.
 
 ### 📫 How to reach me
 
@@ -23,7 +25,7 @@ I’m a Systems Engineer, and senior mentor in AI Engineering bootcamps. With ov
 
 > **B.E. in Computer Science** from [UTN - National Technological University](https://www.utn.edu.ar/es/), Córdoba, 🇦🇷 Argentina
 > 
-> Univesity degree: **"Ingeniero en Sistemas de Información"**.
+> Univesity degree: **'Ingeniero en Sistemas de Información'**.
 
 
 ## 📚 Teaching & Mentorship 🖥️
@@ -60,9 +62,6 @@ Passionate about simplifying complexity, sharing knowledge, and building future 
 
 - [AWS](https://aws.amazon.com/) as cloud computing
 - [Ubuntu](https://ubuntu.com/download/desktop) as Operating System
-- [PyCharm](https://www.jetbrains.com/pycharm/download/) as the Python IDE for Professional Developers
-- [JetBrians](https://www.jetbrains.com/) as essential tools for software developers and teams
-
 
 ## ❤️ I like it as well 🚀
 
