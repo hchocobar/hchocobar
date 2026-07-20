@@ -1,17 +1,17 @@
-# Héctor Chocobar Torrejón 🦁 🦮
+# Héctor Chocobar Torrejón
 
-## 🐍 About Me
+## About Me
 
 I’m a Systems Engineer, Python Developer, and Senior Mentor in AI Engineering bootcamps. 
 
 With over 30 years of experience in software and telecom, I’m currently focused on teaching, building data-driven solutions, and mentoring new tech professionals.
 
-### 📫 How to reach me
+### How to reach me
 
 - 🌐 [chocobar.net](https://chocobar.net)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hector-chocobar/)
 
-## 🚀 What you'll find in this profile
+## What you'll find in this profile
 
 - Python-based Data Engineering and Data Science projects
 - Real-life use cases using Pandas, NumPy, Matplotlib, scikit-learn, etc.
@@ -21,14 +21,14 @@ With over 30 years of experience in software and telecom, I’m currently focuse
 - Exploratory Data Analysis (EDA), Machine Learning, and NLP examples
 - Python automation scripts and RegEx use cases
 
-## 🏛️ Education 🎓
+## Education
 
 > **B.E. in Computer Science** from [UTN - National Technological University](https://www.utn.edu.ar/es/), Córdoba, 🇦🇷 Argentina
 > 
 > Univesity degree: **'Ingeniero en Sistemas de Información'**.
 
 
-## 📚 Teaching & Mentorship 🖥️
+## Teaching & Mentorship
 
 Passionate about simplifying complexity, sharing knowledge, and building future tech talent
 
@@ -54,16 +54,16 @@ Passionate about simplifying complexity, sharing knowledge, and building future 
 - 2023, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Spain-44, 🇪🇸 Spain-46, 🇪🇸 Spain-50, 🇪🇸 Spain-54
 - 2022, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Madrid-30, 🇪🇸 Madrid-34
 
-## 🌱 Currently learning
+## Currently learning
 
 - Máster Executive MBA Gadex in Artificial Intelligence
 
-## 💡 Advices 🌞 
+## Advices
 
 - [AWS](https://aws.amazon.com/) as cloud computing
 - [Ubuntu](https://ubuntu.com/download/desktop) as Operating System
 
-## ❤️ I like it as well 🚀
+## I like it as well
 
 <img src="./img/logo-hcht-uk.jpg"
      width="50" height="50"
