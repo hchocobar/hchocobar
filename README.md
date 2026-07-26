@@ -47,12 +47,8 @@ Passionate about simplifying complexity, sharing knowledge, and building future 
 
 > **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/) bootcamps (Full-Stack, Data Science, Machine Learning, and AI Engineering tracks)
 - 2026, AI Engineering Bootcamp.
-- 2025,
-    - Data Science & Machine Learning.
-    - Full Stack Coding Bootcamp.
-- 2024, Full Stack Coding Bootcamp. Cohorts.
-- 2023, Full Stack Coding Bootcamp. Cohorts.
-- 2022, Full Stack Coding Bootcamp. Cohorts.
+- 2025, Data Science & Machine Learning.
+- 2022 - 2025, Full Stack Coding Bootcamp.
 
 ## Currently learning
 
