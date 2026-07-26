@@ -34,25 +34,25 @@ Passionate about simplifying complexity, sharing knowledge, and building future 
 
 > **Professor & Lecturer** at [Catholic University of Uruguay](https://ucu.edu.uy) in programming, data analysis, and AI
 - 2026,
-    - Python for Data Analysis. 🇺🇾 Uruguay, CEC UCU
-    - Programming from scratch with Python. 🇺🇾 Uruguay, CEC UCU
-    - Programming for Data Analysis with Python. 🇺🇾 Uruguay, campus: Salto
-    - Object-Oriented Programming with Python. 🇺🇾 Uruguay, campus: Salto
+    - Python for Data Analysis.
+    - Programming from scratch with Python.
+    - Programming for Data Analysis with Python.
+    - Object-Oriented Programming with Python.
 - 2025,
-    - Programming from scratch with Python. 🇺🇾 Uruguay, CEC UCU
-    - Programming for Data Analysis with Python. 🇺🇾 Uruguay, campus: Salto
-    - Object-Oriented Programming with Python. 🇺🇾 Uruguay, campus: Salto
-- 2024, Programming for Data Analysis with Python. 🇺🇾 Uruguay, campus: Salto
-- 2023, Programming for Data Analysis with Python. 🇺🇾 Uruguay, campus: Salto
+    - Programming from scratch with Python.
+    - Programming for Data Analysis with Python.
+    - Object-Oriented Programming with Python.
+- 2024, Programming for Data Analysis with Python.
+- 2023, Programming for Data Analysis with Python.
 
 > **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/) bootcamps (Full-Stack, Data Science, Machine Learning, and AI Engineering tracks)
-- 2026, AI Engineering Bootcamp. Cohorts: 🇪🇸 Spain-01, 🇦🇷 🇨🇴 🇺🇾 🇻🇪 Latam-01
+- 2026, AI Engineering Bootcamp.
 - 2025,
-    - Data Science & Machine Learning. Cohorts: 🇦🇷 🇨🇴 🇵🇪 🇺🇾 🇻🇪 Latam-10, 🇪🇸 Spain-16, 🇪🇸 Spain-17, 🇪🇸 Spain-20
-    - Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Spain-91, 🇪🇸 Spain-93, 🇪🇸 Spain-108, 🇪🇸 Spain-123
-- 2024, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Spain-65, 🇪🇸 Spain-72, 🇪🇸 Spain-77, 🇺🇸 Miami-es-01
-- 2023, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Spain-44, 🇪🇸 Spain-46, 🇪🇸 Spain-50, 🇪🇸 Spain-54
-- 2022, Full Stack Coding Bootcamp. Cohorts: 🇪🇸 Madrid-30, 🇪🇸 Madrid-34
+    - Data Science & Machine Learning.
+    - Full Stack Coding Bootcamp.
+- 2024, Full Stack Coding Bootcamp. Cohorts.
+- 2023, Full Stack Coding Bootcamp. Cohorts.
+- 2022, Full Stack Coding Bootcamp. Cohorts.
 
 ## Currently learning
 
