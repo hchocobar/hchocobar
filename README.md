@@ -32,7 +32,7 @@ With over 30 years of experience in software and telecom, I’m currently focuse
 
 Passionate about simplifying complexity, sharing knowledge, and building future tech talent
 
-> **Professor & Lecturer** at [Catholic University of Uruguay](https://ucu.edu.uy) in programming, data analysis, and AI
+> **Professor & Lecturer** at [Catholic University of Uruguay](https://ucu.edu.uy) in programming & data with Python
 - 2026,
     - Python for Data Analysis.
     - Programming from scratch with Python.
@@ -45,7 +45,7 @@ Passionate about simplifying complexity, sharing knowledge, and building future 
 - 2024, Programming for Data Analysis with Python.
 - 2023, Programming for Data Analysis with Python.
 
-> **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/) bootcamps (Full-Stack, Data Science, Machine Learning, and AI Engineering tracks)
+> **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/) bootcamps
 - 2026, AI Engineering Bootcamp.
 - 2025, Data Science & Machine Learning.
 - 2022 - 2025, Full Stack Coding Bootcamp.
