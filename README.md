@@ -6,10 +6,7 @@ I’m a Systems Engineer, Python Developer, and Senior Mentor in AI Engineering 
 
 With over 30 years of experience in software and telecom, I’m currently focused on teaching, building data-driven solutions, and mentoring new tech professionals.
 
-### How to reach me
-
-- 🌐 [chocobar.net](https://chocobar.net)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hector-chocobar/)
+**How to reach me:** 🌐 [chocobar.net](https://chocobar.net) | 🔗 [LinkedIn](https://www.linkedin.com/in/hector-chocobar/)
 
 ## What you'll find in this profile
 
@@ -23,10 +20,11 @@ With over 30 years of experience in software and telecom, I’m currently focuse
 
 ## Education
 
-> **B.E. in Computer Science** from [UTN - National Technological University](https://www.utn.edu.ar/es/), Córdoba, 🇦🇷 Argentina
+> **Bachelor of Engineering in Computer Science** from [UTN - National Technological University](https://www.utn.edu.ar/es/), Córdoba, 🇦🇷 Argentina
 > 
-> Univesity degree: **'Ingeniero en Sistemas de Información'**.
-
+> University degree: **'Ingeniero en Sistemas de Información'**
+> 
+> Currently pursuing Executive MBA in AI and Digital Transformation
 
 ## Teaching & Mentorship
 
@@ -49,10 +47,6 @@ Passionate about simplifying complexity, sharing knowledge, and building future 
 - 2026, AI Engineering Bootcamp.
 - 2025, Data Science & Machine Learning.
 - 2022 - 2025, Full Stack Coding Bootcamp.
-
-## Currently learning
-
-- Máster Executive MBA Gadex in Artificial Intelligence
 
 ## Advices
 
