@@ -1,4 +1,4 @@
-# Héctor Chocobar Torrejón
+# Héctor Chocobar-Torrejón
 
 ## About Me
 
@@ -31,22 +31,14 @@ With over 30 years of experience in software and telecom, I’m currently focuse
 Passionate about simplifying complexity, sharing knowledge, and building future tech talent
 
 > **Professor & Lecturer** at [Catholic University of Uruguay](https://ucu.edu.uy) in programming & data with Python
-- 2026,
-    - Python for Data Analysis.
-    - Programming from scratch with Python.
-    - Programming for Data Analysis with Python.
-    - Object-Oriented Programming with Python.
-- 2025,
-    - Programming from scratch with Python.
-    - Programming for Data Analysis with Python.
-    - Object-Oriented Programming with Python.
-- 2024, Programming for Data Analysis with Python.
-- 2023, Programming for Data Analysis with Python.
+- Programming from scratch with Python.
+- Object-Oriented Programming with Python.
+- Programming for Data Analysis with Python.
 
 > **Senior Mentor** at [4Geeks Academy](https://4geeksacademy.com/) bootcamps
-- 2026, AI Engineering Bootcamp.
-- 2025, Data Science & Machine Learning.
-- 2022 - 2025, Full Stack Coding Bootcamp.
+- AI Engineering Bootcamp (2026 - ...)
+- Data Science & Machine Learning (2025 - 2026)
+- Full Stack Coding Bootcamp (2022 - 2025)
 
 ## Advices
 
@@ -61,15 +53,9 @@ Passionate about simplifying complexity, sharing knowledge, and building future 
 <img src="./img/gravatar-hector.png"
      height="50"
      alt="Avatar de Héctor">
-<img src="./img/logo-utn.png"
-     height="50"
-     alt="Universidad Tecnológica Nacional">
 <img src="./img/logo-ubuntu.png"
      height="50"
      alt="Logo Ubuntu">
-<img src="./img/logo-reactjs.png"
-     height="50"
-     alt="Logo React">
 <img src="./img/logo-python.png"
      height="50"
      alt="Logo Python">
