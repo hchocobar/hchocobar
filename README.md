@@ -1,4 +1,4 @@
-# Héctor Chocobar-Torrejón
+# Ing. Héctor Chocobar Torrejón
 
 ## About Me
 
