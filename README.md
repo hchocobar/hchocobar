@@ -24,7 +24,7 @@ With over 30 years of experience in software and telecom, I’m currently focuse
 > 
 > University degree: **'Ingeniero en Sistemas de Información'**
 > 
-> Currently pursuing Executive MBA in AI and Digital Transformation
+> MBA: **Executive MBA in Artificial Intelligence and the Digital Ecosystem**
 
 ## Teaching & Mentorship
 
@@ -44,34 +44,3 @@ Passionate about simplifying complexity, sharing knowledge, and building future 
 
 - [AWS](https://aws.amazon.com/) as cloud computing
 - [Ubuntu](https://ubuntu.com/download/desktop) as Operating System
-
-## I like it as well
-
-<img src="./img/logo-hcht-uk.jpg"
-     width="50" height="50"
-     alt="I stand with Ukraine">
-<img src="./img/gravatar-hector.png"
-     height="50"
-     alt="Avatar de Héctor">
-<img src="./img/logo-ubuntu.png"
-     height="50"
-     alt="Logo Ubuntu">
-<img src="./img/logo-python.png"
-     height="50"
-     alt="Logo Python">
-<img src="./img/logo-jupyter.svg"
-     height="50"
-     alt="Logo Jupyter">
-<img src="./img/logo-pycharm.jpeg"
-     height="50"
-     alt="Logo PyCharm">
-<img src="./img/logo-pycharm-edu.jpeg"
-     height="50"
-     alt="Logo PyCharm">
-<img src="./img/logo-ucu.png"
-     height="50"
-     alt="Logo Catholic University of Uruguay">
-<img src="./img/logo-4geeks.png"
-     height="50"
-     alt="Logo 4Geeks Academy">
-
