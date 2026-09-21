@@ -1,4 +1,4 @@
-# Ing. Héctor Chocobar Torrejón
+# Héctor Chocobar-Torrejón, B.S., EMBA
 
 ## About Me
 
@@ -24,7 +24,7 @@ With over 30 years of experience in software and telecom, I’m currently focuse
 > 
 > University degree: **'Ingeniero en Sistemas de Información'**
 > 
-> MBA: **Executive MBA in Artificial Intelligence and the Digital Ecosystem**
+> MBA: **Executive MBA in Artificial Intelligence and the Digital Environments** from EUNEIZ, Vitoria-Gasteiz, Spain
 
 ## Teaching & Mentorship
 
