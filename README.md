@@ -20,11 +20,9 @@ With over 30 years of experience in software and telecom, I’m currently focuse
 
 ## Education
 
-> **Bachelor of Engineering in Computer Science** from [UTN - National Technological University](https://www.utn.edu.ar/es/), Córdoba, 🇦🇷 Argentina
+> B.S.: **'Ingeniero en Sistemas de Información'** from [UTN - National Technological University](https://www.utn.edu.ar/es/), Córdoba, 🇦🇷 Argentina
 > 
-> University degree: **'Ingeniero en Sistemas de Información'**
-> 
-> MBA: **Executive MBA in Artificial Intelligence and the Digital Environments** from EUNEIZ, Vitoria-Gasteiz, Spain
+> EMBA: **Executive MBA in Artificial Intelligence and the Digital Environments** from [EUNEIZ University](https://www.euneiz.com/), Vitoria-Gasteiz, Spain
 
 ## Teaching & Mentorship
 
